@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heybadger&label=Profile%20views&color=0e75b6&style=flat" alt="heybadger" /> </p>
 
-- 🔭 I’m currently working on [Philippines_Weather System](github.com/heybadger/Philippines_Weather_System)
+- 🔭 I’m currently working on [Philippines_Weather_System](github.com/heybadger/Philippines_Weather_System)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
