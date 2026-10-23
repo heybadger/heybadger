@@ -2,11 +2,11 @@
 
 # Hi there, I'm Mark Comia 
 
-### Information Systems Student • Full-Stack Developer • Open for Freelance, Internship, and Collaboration Opportunities
+### Information Systems Student • Aspiring Full-Stack Developer • Open for Freelance, Internship, and Collaboration Opportunities
 
 I build modern web and mobile applications focused on creating functional, user-friendly, and scalable digital products. I enjoy turning ideas into real-world solutions through clean design and efficient development.
 
-🌐 **Portfolio:** https://badger-portfolio.vercel.app/ <br>
+🌐 **Portfolio:** [https://markcomia.vercel.app](https://markcomia.vercel.app/)/ <br>
 📧 **Email:** [theeasybadger@gmail.com](mailto:theeasybadger@gmail.com) <br>
 💼 **Currently Open For:** Freelance Projects, Internships, and Collaborations
 
