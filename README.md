@@ -6,7 +6,7 @@
 
 I build modern web and mobile applications focused on creating functional, user-friendly, and scalable digital products. I enjoy turning ideas into real-world solutions through clean design and efficient development.
 
-🌐 **Portfolio:** [https://markcomia.vercel.app](https://markcomia.vercel.app/)/ <br>
+🌐 **Portfolio:** [https://markcomia.vercel.app](https://markcomia.vercel.app)/ <br>
 📧 **Email:** [theeasybadger@gmail.com](mailto:theeasybadger@gmail.com) <br>
 💼 **Currently Open For:** Freelance Projects, Internships, and Collaborations
 
