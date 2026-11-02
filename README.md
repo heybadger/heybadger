@@ -16,7 +16,7 @@ I build modern web and mobile applications focused on creating functional, user-
 
 ## 🚀 About Me
 
-* 🎓 3rd Year Bachelor of Science in Information Systems (BSIS) Student
+* 🎓 Bachelor of Science in Information Systems (BSIS) Student
 * 💻 Full-Stack Developer specializing in modern web technologies
 * 📱 Exploring mobile application development with Flutter
 * 🎯 Interested in Full-Stack Development, UI/UX Design, and Software Engineering
